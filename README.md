@@ -15,4 +15,4 @@ Here's what the flow field looks like from 'script.js':
 ---
 
 ## License
-📝 [MIT License](https://github.com/juicername6424/JavaScriptFlowField/blob/main/LICENSE)
+📝 [MIT License](https://github.com/djoshware/JavaScriptFlowField/blob/main/LICENSE)
